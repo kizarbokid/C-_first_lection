@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Комментарий к коду
 Console.WriteLine("Hello, World!");
